@@ -32,7 +32,7 @@
     "@types/request-promise": "^4.1.41",
     "cors": "^2.8.5",
     "install": "^0.10.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "nodemon": "^1.13.0",
     "npm": "^5.6.0",
     "ts-node": "^4.0.2",
